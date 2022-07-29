@@ -9,8 +9,7 @@ const inProgress=document.getElementById('inProgress')
 const completed=document.getElementById('completed')
 const hardcodeTodo=document.getElementById('hardcodeTodo')
 const times=document.getElementById('times')
-// let newTododiv=null
-// let newCloseSpan=null
+
 
 
 
